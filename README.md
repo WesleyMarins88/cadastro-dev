@@ -51,7 +51,7 @@ Copie o arquivo .env.example para .env:
 ## Configuração do Frontend
 1. **Navegue para o diretório do frontend:**
    ```bash
-   cd ../frontend/laravel
+   cd ../frontend
 2. **Instale as dependências do PHP:**
    ```bash
    composer install
