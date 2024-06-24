@@ -27,7 +27,7 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 1. **Clone o repositório**:
    
    ```bash
-   git clone <url-do-repositorio>
+   git clone git@github.com:WesleyMarins88/cadastro-dev.git
    cd CADASTRO-DEV/backend
 2. **Instale as dependências do PHP**:
    
