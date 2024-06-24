@@ -16,7 +16,7 @@ Este guia descreve os passos para configurar e rodar o projeto de cadastro de de
 
 Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 
-- [PHP](https://www.php.net/downloads) >= 8.0
+- [PHP](https://www.php.net/downloads) >= 8.2
 - [Composer](https://getcomposer.org/)
 - [Node.js](https://nodejs.org/) >= 14.x
 - [NPM](https://www.npmjs.com/)
